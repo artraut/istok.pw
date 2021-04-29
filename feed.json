@@ -9,19 +9,5 @@
         "name": "Evgeny Nikiforov"
     },
     "items": [
-        {
-            "id": "https://istok.pw/hi-at-istokpw.html",
-            "url": "https://istok.pw/hi-at-istokpw.html",
-            "title": "Hi at istok.pw",
-            "summary": " Hi there its a first post! ",
-            "content_html": "\n  <p>\n    Hi there its a first post!\n  </p>",
-            "author": {
-                "name": "Evgeny Nikiforov"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-03-21T20:26:32+03:00",
-            "date_modified": "2021-03-21T20:26:32+03:00"
-        }
     ]
 }
