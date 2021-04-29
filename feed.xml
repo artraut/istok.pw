@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>istok.pw</title>
+    <link href="https://istok.pw/feed.xml" rel="self" />
+    <link href="https://istok.pw" />
+    <updated>2021-03-21T20:26:32+03:00</updated>
+    <author>
+        <name>Evgeny Nikiforov</name>
+    </author>
+    <id>https://istok.pw</id>
+
+    <entry>
+        <title>Hi at istok.pw</title>
+        <author>
+            <name>Evgeny Nikiforov</name>
+        </author>
+        <link href="https://istok.pw/hi-at-istokpw.html"/>
+        <id>https://istok.pw/hi-at-istokpw.html</id>
+
+        <updated>2021-03-21T20:26:32+03:00</updated>
+            <summary>
+                <![CDATA[
+                     Hi there its a first post! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hi there its a first post!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
